@@ -1,0 +1,13 @@
+C:\Users\timur\source\repos\test taks itech\bin\Debug\netcoreapp3.1\test taks itech.exe
+C:\Users\timur\source\repos\test taks itech\bin\Debug\netcoreapp3.1\test taks itech.deps.json
+C:\Users\timur\source\repos\test taks itech\bin\Debug\netcoreapp3.1\test taks itech.runtimeconfig.json
+C:\Users\timur\source\repos\test taks itech\bin\Debug\netcoreapp3.1\test taks itech.runtimeconfig.dev.json
+C:\Users\timur\source\repos\test taks itech\bin\Debug\netcoreapp3.1\test taks itech.dll
+C:\Users\timur\source\repos\test taks itech\bin\Debug\netcoreapp3.1\test taks itech.pdb
+C:\Users\timur\source\repos\test taks itech\obj\Debug\netcoreapp3.1\test taks itech.csproj.AssemblyReference.cache
+C:\Users\timur\source\repos\test taks itech\obj\Debug\netcoreapp3.1\test taks itech.AssemblyInfoInputs.cache
+C:\Users\timur\source\repos\test taks itech\obj\Debug\netcoreapp3.1\test taks itech.AssemblyInfo.cs
+C:\Users\timur\source\repos\test taks itech\obj\Debug\netcoreapp3.1\test taks itech.csproj.CoreCompileInputs.cache
+C:\Users\timur\source\repos\test taks itech\obj\Debug\netcoreapp3.1\test taks itech.dll
+C:\Users\timur\source\repos\test taks itech\obj\Debug\netcoreapp3.1\test taks itech.pdb
+C:\Users\timur\source\repos\test taks itech\obj\Debug\netcoreapp3.1\test taks itech.genruntimeconfig.cache
